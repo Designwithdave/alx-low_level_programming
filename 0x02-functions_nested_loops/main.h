@@ -15,4 +15,10 @@ int _isalpha(int c);
 int _isalpha(int c);
   
 int print_sign(int n);
+
+int _abs(int);
+
+int print_last_digit(int);
+
+
 #endif
