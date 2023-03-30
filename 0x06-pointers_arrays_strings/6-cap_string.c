@@ -1,5 +1,5 @@
 /**
- cap_string - capitalizes all words of a string
+*cap_string - capitalizes all words of a string
 * @s: the string to modify
 *
 * Return: a pointer to the modified string
