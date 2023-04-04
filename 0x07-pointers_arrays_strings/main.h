@@ -14,4 +14,6 @@ size_t strspn(const char *str1, const char *str2);
 
  char *_strpbrk(char *s, char *accept);
 
+char *_strstr(char *haystack, char *needle);
+
 #endif /* MAIN_H */
